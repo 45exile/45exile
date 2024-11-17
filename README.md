@@ -1,8 +1,8 @@
 # 👋 Hi, i'm @SalazarDaFreep0nx
 
-[![GitHub followers](https://img.shields.io/github/followers/SalazarDaFreep0nx?style=social)](https://github.com/SalazarDaFreep0nx)
 [![CTF Team: Freep0nx](https://img.shields.io/badge/CTF%20Team-freep0nx-white)](#)
 [![CyberSecurity Enthusiast](https://img.shields.io/badge/-CyberSecurity-black?logo=hackthebox&logoColor=white)](#)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)
 
 ## 👀 About me
 - 📚 Actually learning **C** and **Reverse Engineering**.
