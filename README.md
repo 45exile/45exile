@@ -10,7 +10,7 @@
 - 📚 Actually learning **C** and **Reverse Engineering**.
   
 ## 🌟 Contact
-- Discord : **rahattkatagiri**
+- Discord : **45exile**
 <!---
 SalazarDaFreep0nx/SalazarDaFreep0nx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
