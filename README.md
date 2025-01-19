@@ -1,4 +1,4 @@
-# 👋 Hi, i'm @SalazarDaFreep0nx
+# 👋 Hi, i'm @45exile
 
 [![CTF Team: Freep0nx](https://img.shields.io/badge/CTF%20Team-freep0nx-white)](#)
 [![CyberSecurity Enthusiast](https://img.shields.io/badge/-CyberSecurity-black?logo=hackthebox&logoColor=white)](#)
