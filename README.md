@@ -7,7 +7,7 @@
 **https://ctftime.org/team/361758**
 
 ## 👀 About me
-- 📚 Actually learning **C** and **Reverse Engineering**.
+- 📚 Actually learning **Reverse Engineering**.
   
 ## 🌟 Contact
 - Discord : **45exile**
